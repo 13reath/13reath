@@ -54,4 +54,4 @@
 
 ### 🐍 GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/13reath/13reath/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/13reath/13reath/blob/output/github-snake-dark.svg)
