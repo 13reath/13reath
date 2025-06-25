@@ -27,4 +27,4 @@ jobs:
           target_branch: output
           build_dir: assets
         env:
-          GITHUB_TOKEN:_
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
